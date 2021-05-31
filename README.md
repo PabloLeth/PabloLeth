@@ -2,13 +2,13 @@
 
 ## I´m Pablo Leth and you have reached my github!
 
- I started a fullstack web dev bootcamp at the end of last year
+ I started a fullstack web dev bootcamp at the end of 2020
  
  and now I´m looking for the next challenge!
  
 ## Technologies
 
-I have learn a few programing languages in the bootcamp, also HTML
+I have learn a few programing languages in the bootcamp, also HTML5
 
 #### CSS, JavaScript, React, MySQL, PHP, Doctrine, Symfony, Bootstrap.
 
